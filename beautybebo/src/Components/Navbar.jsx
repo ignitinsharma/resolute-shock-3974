@@ -14,7 +14,7 @@ function Navbar() {
     >
       <Link to="/">
         <Box>
-         
+         <img src="https://www.beautybebo.com/pub/media/logo/default/beautybebo_1.png" alt="" />
         </Box>
       </Link>
       <Spacer />
