@@ -125,7 +125,7 @@ function Login() {
           <Center>
             <Button
               width="full"
-              colorScheme="blue"
+              colorScheme="pink"
               mt={4}
               onClick={handlelogin}
               isLoading={state.isLoading}

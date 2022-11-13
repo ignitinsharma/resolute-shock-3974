@@ -9,12 +9,12 @@ function Navbar() {
       alignItems="center"
       gap="2"
       py={6}
-      px={4}
+      px={5}
       bg="white"
     >
       <Link to="/">
         <Box>
-         
+         <img src="https://www.beautybebo.com/pub/media/logo/default/beautybebo_1.png" alt="" />
         </Box>
       </Link>
       <Spacer />
